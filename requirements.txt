@@ -45,7 +45,7 @@ sqlalchemy-migrate==0.13.0
 sqlparse==0.3.1
 Tempita==0.5.2
 tqdm==4.46.1
-urllib3==1.25.9
+urllib3==1.26.5
 w3lib==1.22.0
 websockets==8.1
 xlrd==0.7.1
